@@ -1,0 +1,120 @@
+[26-May-2022 10:32:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[26-May-2022 11:00:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[26-May-2022 12:08:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[02-Jun-2022 19:55:14 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[02-Jun-2022 20:08:21 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2022_04_19_044301_create_admins_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2022_04_19_044301_create_admins_table.php on line 7
+[20-Jun-2022 21:18:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2022_04_19_094642_create_employers_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2022_04_19_094642_create_employers_table.php on line 7
+[20-Jun-2022 21:23:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2022_04_19_114832_create_employees_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2022_04_19_114832_create_employees_table.php on line 7
+[20-Jun-2022 21:36:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2022_04_21_083901_create_post_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2022_04_21_083901_create_post_jobs_table.php on line 7
+[20-Jun-2022 22:02:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2022_04_21_092427_create_job_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2022_04_21_092427_create_job_categories_table.php on line 7
+[20-Jun-2022 22:53:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2022_04_21_092501_create_job_types_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2022_04_21_092501_create_job_types_table.php on line 7
+[21-Jun-2022 00:40:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2022_04_21_092656_create_salary_types_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2022_04_21_092656_create_salary_types_table.php on line 7
+[21-Jun-2022 03:14:13 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2022_04_21_092427_create_job_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2022_04_21_092427_create_job_categories_table.php on line 7
+[11-Jul-2022 10:13:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2022_04_21_092720_create_experiances_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2022_04_21_092720_create_experiances_table.php on line 7
+[11-Jul-2022 12:10:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2022_04_22_041405_create_skills_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2022_04_22_041405_create_skills_table.php on line 7
+[11-Jul-2022 16:06:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2022_04_22_042228_create_study_levels_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2022_04_22_042228_create_study_levels_table.php on line 7
+[30-Jul-2022 14:07:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2022_04_22_042255_create_years_eperiances_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2022_04_22_042255_create_years_eperiances_table.php on line 7
+[30-Jul-2022 14:17:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2022_04_23_045803_create_news_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2022_04_23_045803_create_news_table.php on line 7
+[30-Jul-2022 14:26:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2022_04_23_070604_create_comments.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2022_04_23_070604_create_comments.php on line 7
+[30-Jul-2022 14:46:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2022_04_24_053409_create_quizzes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2022_04_24_053409_create_quizzes_table.php on line 7
+[30-Jul-2022 15:30:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2022_04_24_071814_create_questions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2022_04_24_071814_create_questions_table.php on line 7
+[30-Jul-2022 17:07:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2022_04_24_185311_create_attempt_quizzes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2022_04_24_185311_create_attempt_quizzes_table.php on line 7
+[18-Dec-2022 08:41:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2022_04_22_042255_create_years_eperiances_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2022_04_22_042255_create_years_eperiances_table.php on line 7
+[18-Dec-2022 08:42:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2022_04_21_083901_create_post_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2022_04_21_083901_create_post_jobs_table.php on line 7
+[18-Dec-2022 08:43:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2022_04_19_114832_create_employees_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2022_04_19_114832_create_employees_table.php on line 7
+[18-Dec-2022 08:45:18 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2022_04_19_094642_create_employers_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2022_04_19_094642_create_employers_table.php on line 7
+[18-Dec-2022 08:47:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2022_04_19_044301_create_admins_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2022_04_19_044301_create_admins_table.php on line 7
+[20-Dec-2022 14:40:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2022_04_21_092720_create_experiances_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2022_04_21_092720_create_experiances_table.php on line 7
+[20-Dec-2022 14:42:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[20-Dec-2022 14:43:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[20-Dec-2022 14:45:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/yesjhgjd/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7

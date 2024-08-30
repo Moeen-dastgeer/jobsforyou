@@ -1,0 +1,80 @@
+[06-May-2022 06:56:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/GuestLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/GuestLayout.php on line 7
+[06-May-2022 09:31:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/EmployerLayout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/EmployerLayout.php on line 8
+[06-May-2022 16:31:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/GuestLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/GuestLayout.php on line 7
+[06-May-2022 16:58:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/AdminGuestLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/AdminGuestLayout.php on line 7
+[07-May-2022 20:05:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/AppLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/AppLayout.php on line 7
+[14-May-2022 12:06:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/AdminAppLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/AdminAppLayout.php on line 7
+[14-May-2022 12:06:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/AdminGuestLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/AdminGuestLayout.php on line 7
+[14-May-2022 12:07:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/AppLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/AppLayout.php on line 7
+[14-May-2022 12:08:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/CompanyLayout.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/CompanyLayout.php on line 6
+[14-May-2022 12:09:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/EmployerLayout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/EmployerLayout.php on line 8
+[14-May-2022 12:10:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/GuestLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/GuestLayout.php on line 7
+[11-Nov-2022 17:02:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/AppLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/AppLayout.php on line 7
+[06-Dec-2022 20:34:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/CompanyLayout.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/CompanyLayout.php on line 6
+[06-Dec-2022 20:36:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/AppLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/AppLayout.php on line 7
+[09-Dec-2022 18:05:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/GuestLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/GuestLayout.php on line 7
+[11-Dec-2022 06:02:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/AdminAppLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/AdminAppLayout.php on line 7
+[12-Dec-2022 01:19:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/EmployerLayout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/EmployerLayout.php on line 8
+[13-Dec-2022 02:08:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/AdminGuestLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/AdminGuestLayout.php on line 7
+[13-Dec-2022 22:55:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/CompanyLayout.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/CompanyLayout.php on line 6
+[18-Dec-2022 09:24:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/AppLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/AppLayout.php on line 7

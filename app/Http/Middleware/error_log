@@ -1,0 +1,152 @@
+[24-May-2022 20:21:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/yesjhgjd/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/Authenticate.php on line 7
+[24-May-2022 20:31:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/yesjhgjd/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[24-May-2022 21:31:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[25-May-2022 04:23:25 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yesjhgjd/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[25-May-2022 05:04:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/yesjhgjd/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[25-May-2022 05:25:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/yesjhgjd/public_html/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/TrustHosts.php on line 7
+[25-May-2022 06:03:22 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/yesjhgjd/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[25-May-2022 09:09:38 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[30-May-2022 12:29:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[30-May-2022 17:32:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[07-Jun-2022 21:53:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[14-Jun-2022 12:37:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[24-Jun-2022 11:14:14 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[05-Jul-2022 15:25:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[23-Jul-2022 08:47:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[30-Jul-2022 08:50:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[05-Aug-2022 06:00:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[12-Aug-2022 06:35:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[17-Aug-2022 09:20:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[22-Aug-2022 11:58:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[28-Aug-2022 23:17:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[04-Sep-2022 23:16:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[10-Sep-2022 00:57:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[27-Sep-2022 06:20:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[03-Oct-2022 03:40:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[23-Oct-2022 18:14:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[30-Oct-2022 17:29:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[07-Nov-2022 02:09:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[13-Nov-2022 06:59:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[22-Nov-2022 08:38:46 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/yesjhgjd/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[28-Nov-2022 10:20:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[01-Dec-2022 12:49:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/yesjhgjd/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[06-Dec-2022 21:11:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/yesjhgjd/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[06-Dec-2022 21:15:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/yesjhgjd/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/Authenticate.php on line 7
+[12-Dec-2022 18:21:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/yesjhgjd/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/Authenticate.php on line 7
+[18-Dec-2022 09:45:53 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/yesjhgjd/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[20-Dec-2022 15:52:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[20-Dec-2022 15:54:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/yesjhgjd/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Middleware/EncryptCookies.php on line 7

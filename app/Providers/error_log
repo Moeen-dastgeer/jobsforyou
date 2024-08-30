@@ -1,0 +1,20 @@
+[13-May-2022 09:33:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/yesjhgjd/public_html/app/Providers/AppServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Providers/AppServiceProvider.php on line 8
+[13-May-2022 09:33:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/yesjhgjd/public_html/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Providers/AuthServiceProvider.php on line 8
+[13-May-2022 09:34:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/yesjhgjd/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[13-May-2022 09:34:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/yesjhgjd/public_html/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Providers/EventServiceProvider.php on line 10
+[13-May-2022 09:36:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/yesjhgjd/public_html/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Providers/RouteServiceProvider.php on line 11

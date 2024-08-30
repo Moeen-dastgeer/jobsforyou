@@ -1,0 +1,72 @@
+[04-Jun-2022 17:06:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/AttemptQuizController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/AttemptQuizController.php on line 9
+[12-Jun-2022 08:57:39 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/ApplyNowController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/ApplyNowController.php on line 10
+[12-Jun-2022 09:25:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/CommentController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/CommentController.php on line 7
+[12-Jun-2022 09:44:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/EmployeeController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/EmployeeController.php on line 13
+[12-Jun-2022 10:17:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/EmployerController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/EmployerController.php on line 15
+[12-Jun-2022 10:47:46 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/FrontController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/FrontController.php on line 8
+[12-Jun-2022 11:36:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/NewsController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/NewsController.php on line 11
+[12-Jun-2022 12:50:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/PostJobController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/PostJobController.php on line 12
+[12-Jun-2022 13:29:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/SkillController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/SkillController.php on line 12
+[13-Dec-2022 23:10:10 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/SkillController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/SkillController.php on line 12
+[13-Dec-2022 23:12:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/PostJobController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/PostJobController.php on line 12
+[14-Dec-2022 06:19:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/FrontController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/FrontController.php on line 8
+[14-Dec-2022 06:22:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/CommentController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/CommentController.php on line 7
+[14-Dec-2022 06:22:53 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/EmployeeController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/EmployeeController.php on line 13
+[18-Dec-2022 09:52:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/AttemptQuizController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/AttemptQuizController.php on line 9
+[18-Dec-2022 09:53:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/ApplyNowController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/ApplyNowController.php on line 10
+[20-Dec-2022 16:03:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/NewsController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/NewsController.php on line 11
+[20-Dec-2022 16:04:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/EmployeeController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/EmployeeController.php on line 13

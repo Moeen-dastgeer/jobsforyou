@@ -1,0 +1,244 @@
+[03-May-2022 04:13:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/AuthenticationTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/AuthenticationTest.php on line 10
+[03-May-2022 07:01:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/RegistrationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/RegistrationTest.php on line 9
+[05-May-2022 17:02:38 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php on line 9
+[05-May-2022 22:54:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/EmailVerificationTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/EmailVerificationTest.php on line 13
+[09-May-2022 15:36:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordResetTest.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordResetTest.php on line 11
+[10-May-2022 01:54:23 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/RegistrationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/RegistrationTest.php on line 9
+[11-May-2022 04:35:09 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php on line 9
+[11-May-2022 07:13:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/EmailVerificationTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/EmailVerificationTest.php on line 13
+[13-May-2022 10:08:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/AuthenticationTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/AuthenticationTest.php on line 10
+[13-May-2022 10:08:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/EmailVerificationTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/EmailVerificationTest.php on line 13
+[13-May-2022 10:08:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php on line 9
+[13-May-2022 10:08:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordResetTest.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordResetTest.php on line 11
+[13-May-2022 10:08:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/RegistrationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/RegistrationTest.php on line 9
+[17-May-2022 03:56:13 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php on line 9
+[21-May-2022 23:33:18 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/AuthenticationTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/AuthenticationTest.php on line 10
+[23-May-2022 00:44:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php on line 9
+[24-May-2022 00:24:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/EmailVerificationTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/EmailVerificationTest.php on line 13
+[30-May-2022 14:00:22 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php on line 9
+[22-Jun-2022 15:19:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php on line 9
+[30-Jun-2022 11:07:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php on line 9
+[06-Jul-2022 16:21:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php on line 9
+[11-Jul-2022 21:33:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php on line 9
+[19-Jul-2022 12:51:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php on line 9
+[02-Aug-2022 11:48:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php on line 9
+[09-Aug-2022 18:45:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php on line 9
+[24-Aug-2022 00:00:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php on line 9
+[30-Aug-2022 11:08:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php on line 9
+[04-Sep-2022 19:47:21 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/RegistrationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/RegistrationTest.php on line 9
+[05-Sep-2022 01:18:24 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php on line 9
+[05-Sep-2022 01:23:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordResetTest.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordResetTest.php on line 11
+[06-Sep-2022 01:08:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/AuthenticationTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/AuthenticationTest.php on line 10
+[06-Sep-2022 01:12:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/EmailVerificationTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/EmailVerificationTest.php on line 13
+[06-Sep-2022 08:44:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php on line 9
+[14-Sep-2022 09:25:18 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php on line 9
+[21-Sep-2022 10:33:39 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordResetTest.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordResetTest.php on line 11
+[03-Oct-2022 06:23:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php on line 9
+[04-Oct-2022 09:49:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordResetTest.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordResetTest.php on line 11
+[09-Oct-2022 03:55:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php on line 9
+[09-Oct-2022 08:50:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordResetTest.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordResetTest.php on line 11
+[14-Oct-2022 18:03:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordResetTest.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordResetTest.php on line 11
+[20-Oct-2022 18:02:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php on line 9
+[21-Oct-2022 20:39:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php on line 9
+[05-Nov-2022 07:48:00 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordResetTest.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordResetTest.php on line 11
+[06-Nov-2022 00:13:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/AuthenticationTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/AuthenticationTest.php on line 10
+[11-Nov-2022 05:40:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/EmailVerificationTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/EmailVerificationTest.php on line 13
+[12-Nov-2022 02:58:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php on line 9
+[14-Nov-2022 16:43:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/AuthenticationTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/AuthenticationTest.php on line 10
+[18-Nov-2022 06:53:10 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php on line 9
+[21-Nov-2022 03:42:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/AuthenticationTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/AuthenticationTest.php on line 10
+[26-Nov-2022 04:40:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/AuthenticationTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/AuthenticationTest.php on line 10
+[03-Dec-2022 18:49:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/AuthenticationTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/AuthenticationTest.php on line 10
+[05-Dec-2022 22:55:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordResetTest.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordResetTest.php on line 11
+[07-Dec-2022 13:46:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php on line 9
+[11-Dec-2022 03:43:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/EmailVerificationTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/EmailVerificationTest.php on line 13
+[11-Dec-2022 17:47:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordResetTest.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordResetTest.php on line 11
+[12-Dec-2022 23:37:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php on line 9
+[19-Dec-2022 08:23:23 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordResetTest.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordResetTest.php on line 11
+[19-Dec-2022 08:24:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/EmailVerificationTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/EmailVerificationTest.php on line 13
+[19-Dec-2022 17:33:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/AuthenticationTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/AuthenticationTest.php on line 10
+[01-Jan-2023 01:45:16 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordResetTest.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordResetTest.php on line 11
+[01-Jan-2023 01:46:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/tests/Feature/Auth/PasswordConfirmationTest.php on line 9

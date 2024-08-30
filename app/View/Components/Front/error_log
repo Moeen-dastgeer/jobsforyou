@@ -1,0 +1,48 @@
+[11-May-2022 08:14:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/Front/Quiz.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/Front/Quiz.php on line 7
+[12-May-2022 13:21:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/Front/Recruiting.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/Front/Recruiting.php on line 7
+[18-Jun-2022 18:38:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/Front/EmployeeHeader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/Front/EmployeeHeader.php on line 7
+[18-Jun-2022 18:47:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/Front/Filter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/Front/Filter.php on line 7
+[18-Jun-2022 19:08:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/Front/MatchSkills.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/Front/MatchSkills.php on line 8
+[18-Jun-2022 19:48:16 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/Front/Quiz.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/Front/Quiz.php on line 7
+[19-Jun-2022 02:39:21 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/Front/Recruiting.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/Front/Recruiting.php on line 7
+[06-Oct-2022 23:52:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/Front/Recruiting.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/Front/Recruiting.php on line 7
+[17-Oct-2022 12:00:09 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/Front/Recruiting.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/Front/Recruiting.php on line 7
+[01-Nov-2022 02:13:21 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/Front/Quiz.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/Front/Quiz.php on line 7
+[06-Dec-2022 20:30:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/Front/Filter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/Front/Filter.php on line 7
+[20-Dec-2022 15:21:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/yesjhgjd/public_html/app/View/Components/Front/Recruiting.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/View/Components/Front/Recruiting.php on line 7

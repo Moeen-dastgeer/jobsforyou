@@ -1,0 +1,40 @@
+[13-Jul-2022 01:49:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/Auth/AuthenticatedSessionController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/Auth/AuthenticatedSessionController.php on line 11
+[13-Jul-2022 05:47:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/Auth/ChangePasswordController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/Auth/ChangePasswordController.php on line 12
+[13-Jul-2022 09:30:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/Auth/ConfirmablePasswordController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/Auth/ConfirmablePasswordController.php on line 11
+[13-Jul-2022 13:28:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/Auth/EmailVerificationNotificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/Auth/EmailVerificationNotificationController.php on line 9
+[13-Jul-2022 17:08:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/Auth/EmailVerificationPromptController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/Auth/EmailVerificationPromptController.php on line 10
+[13-Jul-2022 21:07:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/Auth/NewPasswordController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/Auth/NewPasswordController.php on line 13
+[14-Jul-2022 00:51:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/Auth/PasswordResetLinkController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/Auth/PasswordResetLinkController.php on line 9
+[14-Jul-2022 08:16:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/Auth/RegisteredCompanyController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/Auth/RegisteredCompanyController.php on line 15
+[11-Aug-2022 23:09:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/Auth/VerifyEmailController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/Auth/VerifyEmailController.php on line 11
+[12-Aug-2022 06:54:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/yesjhgjd/public_html/app/Http/Controllers/Web/Auth/RegisteredUserController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Controllers/Web/Auth/RegisteredUserController.php on line 15

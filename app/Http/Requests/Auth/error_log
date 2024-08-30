@@ -1,0 +1,8 @@
+[11-May-2022 06:11:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/yesjhgjd/public_html/app/Http/Requests/Auth/LoginRequest.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Requests/Auth/LoginRequest.php on line 12
+[13-Dec-2022 23:05:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/yesjhgjd/public_html/app/Http/Requests/Auth/LoginRequest.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/yesjhgjd/public_html/app/Http/Requests/Auth/LoginRequest.php on line 12
